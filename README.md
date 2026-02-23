@@ -49,8 +49,7 @@ film-analysis/
 │   requirements.txt
 │
 ├── notebooks/
-│   ├── analysis_notebook.ipynb
-│   └── visualization_notebook.ipynb
+│   ├── exploratory_analysis_notebook.ipynb
 │
 └── data/
     └── datasets/
